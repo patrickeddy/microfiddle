@@ -92,10 +92,6 @@ function addListeners() {
 }
 
 function main() {
-  //TODO:
-  // 1. We need to hijack the console.log/warn/error for displaying output
-  // 2. Run code on button press
-  // 3. Populate the code editor with query param code
   setup()
   render()
   addListeners()
